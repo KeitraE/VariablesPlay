@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dP0s+Nm0YqiPtW/YEgViOPfTRv8UYCjxJVTN8bP3abKoCqu2VU8EUKl2mOsM4RFLMFoGfFyjQsyTDMUmhhNBdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lakeitra Coleman\\source\\repos\\PlayingWithVariables\\PlayingWithVariablesConsole\\PlayingWithVariablesConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lakeitra Coleman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
